@@ -1,0 +1,4 @@
+"name": "david",
+"age": 32,
+"interes": ['musuck','testing'],
+console.log ("interes")

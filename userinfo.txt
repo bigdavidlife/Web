@@ -1,0 +1,5 @@
+let  userinfo={
+  name:"вася",
+  age:30
+  };
+  alert(userinfo.name);
