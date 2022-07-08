@@ -1,0 +1,103 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(130, 135, 131, 0.512);
+  box-sizing: border-box;
+
+  
+}
+   
+
+   .picture{
+      
+       width: 250px; 
+     display: block;
+     margin: auto;
+    border-style: solid;
+    border-color: cadetblue;
+     border-radius: 5%;
+    }
+    
+   
+      .home_slide {
+        position: absolute;
+        top:0 ;
+        left:0 ;
+        width: 100vw;
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        opacity: 0;
+      }
+      .home_slide.fadeIn{
+        opacity: 1;
+      }
+      .home_slide-01{
+background-image: url("../photo/1.png");
+      }
+      .home_slide-02{
+        background-image:url("../photo/IMG_20220618_003721.jpg") ;
+
+      }
+      .home_slide-03{
+        background-image:url("../photo/nft.png") ;
+      }
+
+      
+  
+  
+  p{
+text-align: center;
+
+   }
+
+table{
+  background-color:rgb(217, 226, 217) ;
+  
+  border-radius: 11px;
+  border-color: rgb(188, 188, 188);
+}
+
+.x{
+  color: darkblue;
+  text-align: center;
+}
+.y{
+  text-align: center;
+}
+a{
+  color: darkblue;
+  text-decoration: none;
+}
+
+
+
+video{
+  
+  width: 450px; 
+  display: block;
+  margin: auto;
+  padding: 13px;
+  
+}
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:20px;
+  text-align: center;
+
+}
+.back{
+  color: rgb(10, 10, 10);
+  text-decoration: none;  
+  
+  
+}
+
+.fon{
+  text-align: center;
+
+}
